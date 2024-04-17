@@ -65,7 +65,7 @@ glook supports various data formats, including CSV & Excel.
 
 ## Getting Help
 
-If you encounter any issues or have questions about using glook, please feel free to open an issue on the [GitHub repository](https://github.com/Arrnv/glook/). We'll be happy to assist you.
+If you encounter any issues or have questions about using glook, please feel free to open an issue on the [GitHub repository](https://github.com/Arrnv/EDA/). We'll be happy to assist you.
 
 ## License
 
